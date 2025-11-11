@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+env/
+newvenv/
+.ipynb_checkpoints
+.vscode/
+.idea/
+.cache/
+*.log
+*.tmp
+*.csv
+*.json
+.env
